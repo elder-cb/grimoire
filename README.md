@@ -48,3 +48,8 @@ I've edited _config.yml for my own build purposes, but if you've got [Jekyll](ht
 Cleric and wizard spells from the Starter Kit were seeded from [this Reddit post](http://www.reddit.com/r/DnD/comments/2a7wau/5e_cleric_and_wizard_spells_sorted_by_level/).
 
 Thanks to @sethxd for suggesting [Jets.js](http://nexts.github.io/Jets.js/), a CSS search engine that plays nicely with Jekyll.
+
+
+## Mirrored
+
+This repository has been mirrored from https://github.com/jayrab/grimoire that looks to be a copy of the original, no longer existing, repository by ephe
